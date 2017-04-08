@@ -22,6 +22,10 @@
     "productName": "HelloElectron",
     "appId": "com.electron.hello",
     "asar": true,
+    "protocols" : {
+        "name" : "helloElectron",
+        "schemes" : ["helloelectron"]
+    },
     "mac": {
       "target": [
         "default"
@@ -48,6 +52,10 @@
         "tar.gz"
       ],
       "icon": "./resources/linuxicon"
+    },
+    "nsis":{
+      "oneClick" : false,
+      "allowToChangeInstallationDirectory" :true
     },
     "directories": {
       "buildResources": "resources/installer/",
