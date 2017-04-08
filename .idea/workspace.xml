@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a59c761-a2a0-4591-bfa5-bfa5e39edf02" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ASSETS/atom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ASSETS/electron.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ASSETS/kaku.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ASSETS/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ASSETS/slack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ASSETS/visualstudiocode.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ASSETS/webtorrent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -381,12 +369,12 @@
       <workItem from="1491119060486" duration="177000" />
       <workItem from="1491119306099" duration="3577000" />
       <workItem from="1491141654016" duration="655000" />
-      <workItem from="1491631533181" duration="5266000" />
+      <workItem from="1491631533181" duration="5352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23523000" />
+    <option name="totallyTimeSpent" value="23609000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

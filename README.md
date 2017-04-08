@@ -141,12 +141,10 @@ package.json 파일의 scripts 부분에 아래의 명령어를 추가합니다.
 ```
     "build": "npm run build:linux && npm run build:osx && npm run build:win"
 ```
-
+커맨드 창에서 아래와 같이 실행합니다.
 ```
 npm run build
 ```
-
-<img src="ASSETS/screenshot.png">
     
 ## [Electron API Demo ➤](https://github.com/cionman/04_Electron_API_DEMO) 
 
